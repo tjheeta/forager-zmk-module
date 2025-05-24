@@ -84,10 +84,10 @@
 
     def {
       bindings = <
-        &kp Q          &kp W         &kp E         &kp R          &kp T                                           &kp Y           &kp U          &kp I         &kp O            &kp P
-        &l_p LCTRL A   &kp S         &kp D         &kp F          &kp G                                           &kp H           &kp RSHFT J    &kp K         &kp L            &r_p RCTRL SEMI
-        &l_p LSHFT Z   &l_p LGUI X   &kp LALT C    &kp V          &kp B                                           &kp N           &kp M          &r_p COMMA    &r_p LGUI DOT    &r_p RSHFT FSLH
-                                                                  &lt NUM ENTER   &kp TAB      &kp BSPC   &lt NUM SPACE
+        &kp Q          &kp W         &kp E         &kp R          &kp T                                           &kp Y           &kp U          &kp I              &kp O            &kp P
+        &l_p LCTRL A   &kp S         &kp D         &kp F          &kp G                                           &kp H           &kp J          &kp K              &kp L            &r_p RCTRL SEMI
+        &l_p LSHFT Z   &l_p LGUI X   &l_p LALT C   &kp V          &kp B                                           &kp N           &kp M          &r_p LALT COMMA    &r_p LGUI DOT    &r_p RSHFT FSLH
+                                                                  &lt NUM ENTER   &kp TAB      &kp BSPC   &lt NAV SPACE
       >;
     };
 
