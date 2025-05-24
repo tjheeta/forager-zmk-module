@@ -9,6 +9,9 @@ config ZMK_SPLIT_ROLE_CENTRAL
 config ZMK_STUDIO
     default y
 
+config ZMK_POINTING
+    default y
+    
 endif
 
 if SHIELD_FORAGER_LEFT || SHIELD_FORAGER_RIGHT
