@@ -86,7 +86,7 @@
             &kp Q           &kp W           &kp E           &kp R           &kp T                                           &kp Y           &kp U           &kp I           &kp O           &kp P
             &lhm LCTRL A    &kp S           &kp D           &kp F           &kp G                                           &kp H           &kp J           &kp K           &kp L           &rhm LCTRL SEMI
             &lhm LSHFT Z    &lhm LGUI X     &lhm LALT C     &kp D           &kp V                                           &kp N           &kp M           &rhm RALT COMMA &rhm LGUI DOT   &rhm RSHFT FSLH
-                                                                            &lt SYM ENTER   &kp TAB        &kp BPSC &lt NAV SPACE
+                                                                            &lt SYM ENTER   &kp TAB        &kp BPSC         &lt NAV SPACE
             >;
         };
 
