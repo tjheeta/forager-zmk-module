@@ -94,7 +94,7 @@
     num {
       bindings = <
         AS(N1)        AS(N2)         AS(N3)         AS(N4)          AS(N5)                                     AS(N6)     AS(N7)          AS(N8)          AS(N9)          AS(N0)
-        AS(GRAVE)     &trans         @trans         &trans          &trans                                     AS(BSLH)   AS(MINUS)       AS(EQUAL)       AS(LBKT)        AS(RBKT)
+        AS(GRAVE)     &trans         &trans         &trans          &trans                                     AS(BSLH)   AS(MINUS)       AS(EQUAL)       AS(LBKT)        AS(RBKT)
         &trans        &trans         &trans         &trans          &trans                                     &trans     &trans          &trans          &trans          &kp ENTER
                                                                     &trans         &trans         &kp LSHFT    &mo NAV
       >;
