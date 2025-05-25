@@ -104,8 +104,8 @@
     nav {
       bindings = <
         &trans        &trans         &trans          &trans         &trans                                     &kp PAGE_UP     &kp HOME        &kp UP          &kp END         &kp DELETE
-        &trans        &kp LC(LA(N1)) &kp LC(LA(N2))  &kp LC(LA(N3)) &trans                                     &kp PAGE_DOWN   &kp LEFT        &kp DOWN        &kp RIGHT       &kp BSLH
-        &kp K_UNDO    &kp LS(DEL)    &kp LC(INS)     &kp LS(INS)    &trans                                     &kp LA(LEFT)    &kp LA(RIGHT)   &kp LC(LS(TAB)) &kp LC(TAB)     &kp ESC
+        &trans        &kp LC(LA(N1)) &kp LC(LA(N2))  &kp LC(LA(N3)) &trans                                     &kp PAGE_DOWN   &kp LEFT        &kp DOWN        &kp RIGHT       &kp ESC
+        &kp K_UNDO    &kp LS(DEL)    &kp LC(INS)     &kp LS(INS)    &trans                                     &trans          &kp LA(LEFT)    &kp LA(RIGHT)   &kp LC(LS(TAB)) &kp LC(TAB)
                                                                     &trans         &kp LSHFT       &trans      &trans
       >;
     };
