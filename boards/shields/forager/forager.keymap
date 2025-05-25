@@ -15,9 +15,11 @@
 &lt {
     compatible = "zmk,behavior-hold-tap";
     flavor = "balanced";
-    tapping-term-ms = <250>;
-    quick-tap-ms = <200>;
-    require-prior-idle-ms = <150>;
+    tapping-term-ms = <200>;
+    quick-tap-ms = <150>;
+    // tapping-term-ms = <250>;
+    // quick-tap-ms = <200>;
+    // require-prior-idle-ms = <150>;
     hold-trigger-on-release;
 };
 
